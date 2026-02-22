@@ -1,16 +1,17 @@
 import { Check, X } from "lucide-react";
 
 const forYouItems = [
-  "You have a growing team but manual processes slow you down",
-  "You lack performance dashboards and clear KPIs",
-  "Your CRM or call handling is inefficient",
-  "You want structured automation instead of chaos",
+  "You have a growing team but manual processes and spreadsheets slow you down",
+  "You lack performance dashboards, KPIs, and real-time reporting",
+  "Your CRM, call center, or customer handling is inefficient",
+  "You want structured automation — not another quick-fix website",
+  "You're generating 1M+ SAR annually and need systems to scale",
 ];
 
 const notForYouItems = [
-  "Very early startups with no revenue",
-  "Businesses looking for the cheapest website",
-  "One-time small design projects",
+  "Very early startups with no revenue or team",
+  "Businesses looking for the cheapest website or logo",
+  "One-time small design or social media projects",
 ];
 
 const QualificationSection = () => {
