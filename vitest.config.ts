@@ -3,7 +3,7 @@ import react from "@vitejs/plugin-react-swc";
 import path from "path";
 
 export default defineConfig({
-  base: "/abdulaziz-algambar/",
+  base: "/lovable-tagger/",
   plugins: [react()],
   test: {
     environment: "jsdom",
